@@ -1,0 +1,30 @@
+C:\Users\ak\Desktop\BridgeLabz Project\LinkedListProblems\LinkedListProblems\obj\Debug\net6.0\LinkedListProblems.csproj.AssemblyReference.cache
+C:\Users\ak\Desktop\BridgeLabz Project\LinkedListProblems\LinkedListProblems\obj\Debug\net6.0\LinkedListProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak\Desktop\BridgeLabz Project\LinkedListProblems\LinkedListProblems\obj\Debug\net6.0\LinkedListProblems.AssemblyInfoInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\LinkedListProblems\LinkedListProblems\obj\Debug\net6.0\LinkedListProblems.AssemblyInfo.cs
+C:\Users\ak\Desktop\BridgeLabz Project\LinkedListProblems\LinkedListProblems\obj\Debug\net6.0\LinkedListProblems.csproj.CoreCompileInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\LinkedListProblems\LinkedListProblems\bin\Debug\net6.0\LinkedListProblems.exe
+C:\Users\ak\Desktop\BridgeLabz Project\LinkedListProblems\LinkedListProblems\bin\Debug\net6.0\LinkedListProblems.deps.json
+C:\Users\ak\Desktop\BridgeLabz Project\LinkedListProblems\LinkedListProblems\bin\Debug\net6.0\LinkedListProblems.runtimeconfig.json
+C:\Users\ak\Desktop\BridgeLabz Project\LinkedListProblems\LinkedListProblems\bin\Debug\net6.0\LinkedListProblems.dll
+C:\Users\ak\Desktop\BridgeLabz Project\LinkedListProblems\LinkedListProblems\bin\Debug\net6.0\ref\LinkedListProblems.dll
+C:\Users\ak\Desktop\BridgeLabz Project\LinkedListProblems\LinkedListProblems\bin\Debug\net6.0\LinkedListProblems.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\LinkedListProblems\LinkedListProblems\obj\Debug\net6.0\LinkedListProblems.dll
+C:\Users\ak\Desktop\BridgeLabz Project\LinkedListProblems\LinkedListProblems\obj\Debug\net6.0\ref\LinkedListProblems.dll
+C:\Users\ak\Desktop\BridgeLabz Project\LinkedListProblems\LinkedListProblems\obj\Debug\net6.0\LinkedListProblems.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\LinkedListProblems\LinkedListProblems\obj\Debug\net6.0\LinkedListProblems.genruntimeconfig.cache
+C:\Users\ak\Desktop\BridgeLabz Project\Day14 problems\LinkedListProblems\LinkedListProblems\bin\Debug\net6.0\LinkedListProblems.exe
+C:\Users\ak\Desktop\BridgeLabz Project\Day14 problems\LinkedListProblems\LinkedListProblems\bin\Debug\net6.0\LinkedListProblems.deps.json
+C:\Users\ak\Desktop\BridgeLabz Project\Day14 problems\LinkedListProblems\LinkedListProblems\bin\Debug\net6.0\LinkedListProblems.runtimeconfig.json
+C:\Users\ak\Desktop\BridgeLabz Project\Day14 problems\LinkedListProblems\LinkedListProblems\bin\Debug\net6.0\LinkedListProblems.dll
+C:\Users\ak\Desktop\BridgeLabz Project\Day14 problems\LinkedListProblems\LinkedListProblems\bin\Debug\net6.0\ref\LinkedListProblems.dll
+C:\Users\ak\Desktop\BridgeLabz Project\Day14 problems\LinkedListProblems\LinkedListProblems\bin\Debug\net6.0\LinkedListProblems.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\Day14 problems\LinkedListProblems\LinkedListProblems\obj\Debug\net6.0\LinkedListProblems.csproj.AssemblyReference.cache
+C:\Users\ak\Desktop\BridgeLabz Project\Day14 problems\LinkedListProblems\LinkedListProblems\obj\Debug\net6.0\LinkedListProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak\Desktop\BridgeLabz Project\Day14 problems\LinkedListProblems\LinkedListProblems\obj\Debug\net6.0\LinkedListProblems.AssemblyInfoInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\Day14 problems\LinkedListProblems\LinkedListProblems\obj\Debug\net6.0\LinkedListProblems.AssemblyInfo.cs
+C:\Users\ak\Desktop\BridgeLabz Project\Day14 problems\LinkedListProblems\LinkedListProblems\obj\Debug\net6.0\LinkedListProblems.csproj.CoreCompileInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\Day14 problems\LinkedListProblems\LinkedListProblems\obj\Debug\net6.0\LinkedListProblems.dll
+C:\Users\ak\Desktop\BridgeLabz Project\Day14 problems\LinkedListProblems\LinkedListProblems\obj\Debug\net6.0\ref\LinkedListProblems.dll
+C:\Users\ak\Desktop\BridgeLabz Project\Day14 problems\LinkedListProblems\LinkedListProblems\obj\Debug\net6.0\LinkedListProblems.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\Day14 problems\LinkedListProblems\LinkedListProblems\obj\Debug\net6.0\LinkedListProblems.genruntimeconfig.cache
